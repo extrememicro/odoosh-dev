@@ -30,3 +30,7 @@
 	path = oca/partner-contact
 	url = https://github.com/OCA/partner-contact
 	branch = 15.0
+[submodule "oca/queue"]
+	path = oca/queue
+	url = https://github.com/OCA/queue
+	branch = 15.0
