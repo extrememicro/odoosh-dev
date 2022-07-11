@@ -22,3 +22,7 @@
 	path = oca/l10n-spain
 	url = https://github.com/OCA/l10n-spain
 	branch = 15.0
+[submodule "oca/mis-builder"]
+	path = oca/mis-builder
+	url = https://github.com/OCA/mis-builder
+	branch = 15.0
