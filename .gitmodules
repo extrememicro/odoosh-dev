@@ -2,3 +2,7 @@
 	path = oca/account-financial-reporting
 	url = https://github.com/OCA/account-financial-reporting
 	branch = 15.0
+[submodule "oca/account-financial-tools"]
+	path = oca/account-financial-tools
+	url = https://github.com/OCA/account-financial-tools
+	branch = 15.0
