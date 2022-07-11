@@ -1,0 +1,9 @@
+chardet
+cryptography
+requests
+unidecode
+zeep
+pdf2image
+pyzbar
+bokeh==2.4.2
+certifi
