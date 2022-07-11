@@ -1,0 +1,4 @@
+[submodule "oca/account-financial-reporting"]
+	path = oca/account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting
+	branch = 15.0
