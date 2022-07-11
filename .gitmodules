@@ -1,52 +1,53 @@
 [submodule "oca/account-financial-reporting"]
 	path = oca/account-financial-reporting
 	url = https://github.com/OCA/account-financial-reporting
-	branch = 15.0
+	branch = 14.0
 [submodule "oca/account-financial-tools"]
 	path = oca/account-financial-tools
 	url = https://github.com/OCA/account-financial-tools
-	branch = 15.0
+	branch = 14.0
 [submodule "oca/account-invoicing"]
 	path = oca/account-invoicing
 	url = https://github.com/OCA/account-invoicing
-	branch = 15.0
+	branch = 14.0
 [submodule "oca/bank-statement-import"]
 	path = oca/bank-statement-import
 	url = https://github.com/OCA/bank-statement-import
-	branch = 15.0
+	branch = 14.0
 [submodule "oca/community-data-files"]
 	path = oca/community-data-files
 	url = https://github.com/OCA/community-data-files
-	branch = 15.0
+	branch = 14.0
 [submodule "oca/l10n-spain"]
 	path = oca/l10n-spain
 	url = https://github.com/OCA/l10n-spain
-	branch = 15.0
+	branch = 14.0
 [submodule "oca/mis-builder"]
 	path = oca/mis-builder
 	url = https://github.com/OCA/mis-builder
-	branch = 15.0
+	branch = 14.0
 [submodule "oca/partner-contact"]
 	path = oca/partner-contact
 	url = https://github.com/OCA/partner-contact
-	branch = 15.0
+	branch = 14.0
 [submodule "oca/queue"]
 	path = oca/queue
 	url = https://github.com/OCA/queue
-	branch = 15.0
+	branch = 14.0
 [submodule "oca/reporting-engine"]
 	path = oca/reporting-engine
 	url = https://github.com/OCA/reporting-engine
-	branch = 15.0
+	branch = 14.0
 [submodule "oca/sale-reporting"]
 	path = oca/sale-reporting
 	url = https://github.com/OCA/sale-reporting
-	branch = 15.0
+	branch = 14.0
 [submodule "oca/server-ux"]
 	path = oca/server-ux
 	url = https://github.com/OCA/server-ux
-	branch = 15.0
+	branch = 14.0
 [submodule "oca/web"]
 	path = oca/web
 	url = https://github.com/OCA/web
-	branch = 15.0
+	branch = 14.0
+
