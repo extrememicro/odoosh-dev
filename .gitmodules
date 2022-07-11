@@ -42,3 +42,7 @@
 	path = oca/sale-reporting
 	url = https://github.com/OCA/sale-reporting
 	branch = 15.0
+[submodule "oca/server-ux"]
+	path = oca/server-ux
+	url = https://github.com/OCA/server-ux
+	branch = 15.0
