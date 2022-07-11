@@ -10,3 +10,7 @@
 	path = oca/account-invoicing
 	url = https://github.com/OCA/account-invoicing
 	branch = 15.0
+[submodule "oca/bank-statement-import"]
+	path = oca/bank-statement-import
+	url = https://github.com/OCA/bank-statement-import
+	branch = 15.0
