@@ -18,3 +18,7 @@
 	path = oca/community-data-files
 	url = https://github.com/OCA/community-data-files
 	branch = 15.0
+[submodule "oca/l10n-spain"]
+	path = oca/l10n-spain
+	url = https://github.com/OCA/l10n-spain
+	branch = 15.0
