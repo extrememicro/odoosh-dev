@@ -14,3 +14,7 @@
 	path = oca/bank-statement-import
 	url = https://github.com/OCA/bank-statement-import
 	branch = 15.0
+[submodule "oca/community-data-files"]
+	path = oca/community-data-files
+	url = https://github.com/OCA/community-data-files
+	branch = 15.0
