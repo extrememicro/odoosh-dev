@@ -26,3 +26,7 @@
 	path = oca/mis-builder
 	url = https://github.com/OCA/mis-builder
 	branch = 15.0
+[submodule "oca/partner-contact"]
+	path = oca/partner-contact
+	url = https://github.com/OCA/partner-contact
+	branch = 15.0
